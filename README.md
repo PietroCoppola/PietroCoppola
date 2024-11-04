@@ -2,7 +2,7 @@
 
 I'm a multi Carnegie Mellon SCS undergrad looking to explore the horizons of CS a bit, learning as much as I can from as many brilliant CMU scholars as possible. My current tech interests include ML, Human-Computer Interaction, Robotics and Gamedev. 
 
-Working on mastering a fourth _natural_ language and a couple more _programming_ languages. Also, I'm currently also doing some research on the world of GAI and the challenges of training these models when so much of the available data is AI-generated (like model collapse!).
+Working on mastering a fourth _natural_ language and a couple more _programming_ languages. Also, I'm currently doing some research on the world of GAI and the challenges of training these models when so much of the available data is AI-generated (like model collapse!).
 
 If you'd like to talk, just reach out on [my LinkedIn](https://www.linkedin.com/in/pietro-coppola-di-canzano-7552a4216/)!
 <!--
